@@ -5,8 +5,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Setting up Tailwind CSS in a Vue 3 and Vite project, with following steps:
 
 1. `npm create vite@latest`
-√ Project name: ... tailwindCSS_Vue3_Vite
-√ Package name: ... package
+√ Project name: tailwindCSS_Vue3_Vite
+√ Package name: package
 √ Select a framework: » vue
 √ Select a variant: » vue
 
